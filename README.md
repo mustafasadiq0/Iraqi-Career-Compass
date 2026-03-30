@@ -3,4 +3,7 @@ An interactive website to help students, fresh graduates, and junior employees i
 
 the live website can be accessed here: https://saiuhurp.manus.space/
 
+![Alt text for the image](assets/image.png)
+
+
 
